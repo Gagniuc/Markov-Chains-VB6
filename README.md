@@ -1,6 +1,6 @@
 # Markov Chains in VB6
 
-These applications use transition matrices to make predictions by using a Markov chain. For exemplification, the values from the transition matrix, in any of the three applications, represent the transition probabilities between two states found in a sequence of observations (ex. <i>s</i>=SRSSSRRRSRRSRRRS). These two states are: Sunny and Rainy, or R and S. Based on the initial probability vector, the application calculates how the weather may be on a number of days. More in-depth information on these matters can be found in the <a href="https://www.wiley.com/en-us/Markov+Chains%3A+From+Theory+to+Implementation+and+Experimentation-p-9781119387589">primary source</a>.
+These applications use transition matrices to make predictions by using a Markov chain. For exemplification, the values from the transition matrix, in any of the three applications, represent the transition probabilities between two states found in a sequence of observations (ex. <i>s</i>=<kbd>SRSSSRRRSRRSRRRS</kbd>). These two states are: Sunny and Rainy, or <kbd>R</kbd> and <kbd>S</kbd>. Based on the initial probability vector, the application calculates how the weather may be on a number of days. More in-depth information on these matters can be found in the <a href="https://www.wiley.com/en-us/Markov+Chains%3A+From+Theory+to+Implementation+and+Experimentation-p-9781119387589">primary source</a>.
 
 
 
