@@ -1,5 +1,8 @@
 # Markov Chains in VB6
-Markov Chains in VB6.
+
+These applications use transition matrices to make predictions by using a Markov chain. For exemplification, the values from the transition matrix, in any of the three applications, represent the transition probabilities between two states, namely: Sunny and Rainy. Based on the initial vector, the application calculates how the weather may be on a number of days. More in-depth information on these matters can be found in the primary source: <a href="">Markov chains: from theory to implementation and experimentation</a>
+
+
 
 # Screenshot
 
